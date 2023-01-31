@@ -12,5 +12,5 @@ Note, if you are not located in the directory where the downloaded jar file situ
 ```
 java -jar /one/two/three/and/so/on/Desktop_TicTakToe.jar
 ```
-#Purpose
+# Purpose
 Main Purpose of the project was Study OOP in Java. During working, I learned such things like Inheretance, Interfaces, Inner classes, Functional interfaces and Functional programming
